@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Username": "\u6D4B\u8BD5\u5B88\u62A4\u8005",
+  "DisplayHero": 2,
+  "SoundEnabled": false,
+  "SelectedLevel": 1,
+  "Difficulty": 0,
+  "TotalBattles": 14,
+  "TotalKills": 54,
+  "TotalSkills": 0,
+  "MemoryTrack": 1,
+  "MemoryPlaying": true,
+  "SeenEnemies": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "Stages": {
+    "1:Easy": {
+      "BestScore": 1500,
+      "Stars": 3,
+      "Clears": 2
+    },
+    "3:Easy": {
+      "BestScore": 2800,
+      "Stars": 3,
+      "Clears": 1
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "Username": "\u6D4B\u8BD5\u5B88\u62A4\u8005",
+  "DisplayHero": 2,
+  "SoundEnabled": false,
+  "Checkpoint": {
+    "LevelId": 1,
+    "Difficulty": 0,
+    "Upgrades": {
+      "Stacks": {},
+      "AttackSpeedBonus": 0,
+      "DamageBonus": 0,
+      "FlatDamage": 0,
+      "AmmoCount": 1,
+      "CriticalChance": 0,
+      "IsValid": true,
+      "Summary": "\u653B\u901F \u002B0% \u00B7 \u4F24\u5BB3 \u002B0% \u00B7 \u5F39\u5934 \u002B0\n\u5F39\u836F \u00D71 \u00B7 \u66B4\u51FB 0%"
+    },
+    "IsValid": true
+  },
+  "SelectedLevel": 1,
+  "Difficulty": 0,
+  "TotalBattles": 22,
+  "TotalKills": 83,
+  "TotalSkills": 0,
+  "MemoryTrack": 1,
+  "MemoryPlaying": true,
+  "SeenEnemies": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "Stages": {
+    "1:Easy": {
+      "RatingVersion": 2,
+      "LegacyStars": 0,
+      "BestScore": 1200,
+      "Stars": 3,
+      "Clears": 5
+    },
+    "3:Easy": {
+      "RatingVersion": 2,
+      "LegacyStars": 0,
+      "BestScore": 2400,
+      "Stars": 3,
+      "Clears": 1
+    },
+    "2:Easy": {
+      "RatingVersion": 0,
+      "LegacyStars": 0,
+      "BestScore": 320,
+      "Stars": 0,
+      "Clears": 0
+    },
+    "4:Easy": {
+      "RatingVersion": 0,
+      "LegacyStars": 0,
+      "BestScore": 0,
+      "Stars": 0,
+      "Clears": 0
+    }
+  }
+}

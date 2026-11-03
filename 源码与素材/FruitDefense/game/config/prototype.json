@@ -1,0 +1,151 @@
+{
+  "barrierHealth": 520,
+  "coreLives": 8,
+  "cellSize": 105,
+  "projectileSpeed": 1100,
+  "projectileGravity": 75,
+  "waveBreakSeconds": 5,
+  "enemy": {
+    "name": "果园小偷",
+    "health": 60,
+    "speed": 26,
+    "attackDamage": 12,
+    "attackInterval": 1.15,
+    "reward": 100
+  },
+  "heroes": [
+    {
+      "kind": "Standard",
+      "name": "蜜橙快射",
+      "subtitle": "普通 / 灵活点射",
+      "damage": 20,
+      "splashDamage": 0,
+      "rangeRatio": 0.75,
+      "cooldown": 0.22,
+      "color": "FFBF69"
+    },
+    {
+      "kind": "Sniper",
+      "name": "蓝莓狙击",
+      "subtitle": "远程 / 全程贯穿",
+      "damage": 50,
+      "splashDamage": 0,
+      "rangeRatio": 1.2,
+      "cooldown": 1.3,
+      "color": "78DCE8"
+    },
+    {
+      "kind": "Shotgun",
+      "name": "榴莲重炮",
+      "subtitle": "近程 / 高伤溅射",
+      "damage": 70,
+      "splashDamage": 25,
+      "rangeRatio": 0.25,
+      "cooldown": 1.5,
+      "color": "B9DD7B"
+    }
+  ],
+  "waves": [
+    {
+      "name": "初探果园",
+      "count": 3,
+      "spawnInterval": 2.8,
+      "speedMultiplier": 1.0
+    },
+    {
+      "name": "不速之客",
+      "count": 4,
+      "spawnInterval": 2.5,
+      "speedMultiplier": 1.04
+    },
+    {
+      "name": "最后的防线",
+      "count": 5,
+      "spawnInterval": 2.2,
+      "speedMultiplier": 1.08
+    }
+  ],
+  "difficulties": [
+    {
+      "kind": "Easy",
+      "name": "轻松",
+      "description": "更少、更慢的敌人，适合熟悉拉弓操作。",
+      "barrierHealth": 520,
+      "enemySpeed": 26,
+      "waves": [
+        {
+          "name": "初探果园",
+          "count": 3,
+          "spawnInterval": 2.8,
+          "speedMultiplier": 1.0
+        },
+        {
+          "name": "不速之客",
+          "count": 4,
+          "spawnInterval": 2.5,
+          "speedMultiplier": 1.04
+        },
+        {
+          "name": "最后的防线",
+          "count": 5,
+          "spawnInterval": 2.2,
+          "speedMultiplier": 1.08
+        }
+      ]
+    },
+    {
+      "kind": "Standard",
+      "name": "标准",
+      "description": "数量与速度适中，需要配合三位射手。",
+      "barrierHealth": 460,
+      "enemySpeed": 31,
+      "waves": [
+        {
+          "name": "初探果园",
+          "count": 4,
+          "spawnInterval": 2.25,
+          "speedMultiplier": 1.0
+        },
+        {
+          "name": "不速之客",
+          "count": 5,
+          "spawnInterval": 2.0,
+          "speedMultiplier": 1.05
+        },
+        {
+          "name": "最后的防线",
+          "count": 6,
+          "spawnInterval": 1.75,
+          "speedMultiplier": 1.1
+        }
+      ]
+    },
+    {
+      "kind": "Challenge",
+      "name": "挑战",
+      "description": "进攻更密集，适合熟练后挑战。",
+      "barrierHealth": 400,
+      "enemySpeed": 36,
+      "waves": [
+        {
+          "name": "初探果园",
+          "count": 5,
+          "spawnInterval": 1.8,
+          "speedMultiplier": 1.0
+        },
+        {
+          "name": "不速之客",
+          "count": 6,
+          "spawnInterval": 1.55,
+          "speedMultiplier": 1.06
+        },
+        {
+          "name": "最后的防线",
+          "count": 8,
+          "spawnInterval": 1.3,
+          "speedMultiplier": 1.12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Godot Engine v4.7.2.stable.mono.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 596.13 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 5070 Laptop GPU
+
+UI_PASS 主页可选三档难度并开始游戏
+UI_PASS 720乘1280竖屏且战斗中只保留精简信息和图标
+UI_PASS 英雄头像和快捷键均可切换
+UI_PASS 鼠标拉弓和独立冷却接续发射
+UI_PASS 触屏拉弓、第二指隔离和模拟鼠标不重复发射
+UI_PASS 触屏取消不发射
+UI_PASS 暂停小菜单仅有三个按钮且冻结战斗和倒计时
+UI_PASS 暂停中设置声音并返回，仍保持暂停
+UI_PASS 退出当局返回主页并能重新开始
+UI_PASS 手机返回通知优先取消瞄准，再控制暂停和设置返回
+UI_PASS 敌人和水晶保留生命，顶部次数仍指入侵波次
+UI_PASS 破门后反向拉弓拦截水晶前的敌人
+UI_PASS 拉弓松手经过英雄按钮也不会卡住
+PACED_PLAYTHROUGH shots=59; plannedMisses=14; maxEnemies=6; core=8; seconds=76.7
+UI_PASS 竖屏轻松档慢节奏普通射手仍可通关
+UI_PASS 失败结算与返回主页
+UI_PASS 胜利结算与再次开始
+UI_PASS 360乘640和540乘960竖屏预览下触屏输入仍有效
+UI_RESULT 17/17 passed

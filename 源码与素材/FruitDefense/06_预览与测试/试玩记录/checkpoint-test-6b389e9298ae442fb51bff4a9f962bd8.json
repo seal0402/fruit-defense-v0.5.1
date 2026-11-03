@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Username": "\u679C\u56ED\u5B88\u62A4\u8005",
+  "DisplayHero": 0,
+  "SoundEnabled": true,
+  "Checkpoint": {
+    "LevelId": 8,
+    "Difficulty": 1,
+    "Upgrades": {
+      "Stacks": {
+        "Speed20": 1,
+        "DoubleAmmo": 1
+      },
+      "AttackSpeedBonus": 0.2,
+      "DamageBonus": 0,
+      "FlatDamage": 0,
+      "AmmoCount": 2,
+      "CriticalChance": 0,
+      "IsValid": true,
+      "Summary": "\u653B\u901F \u002B20% \u00B7 \u4F24\u5BB3 \u002B0% \u00B7 \u5F39\u5934 \u002B0\n\u5F39\u836F \u00D72 \u00B7 \u66B4\u51FB 0%"
+    },
+    "IsValid": true
+  },
+  "SelectedLevel": 8,
+  "Difficulty": 0,
+  "TotalBattles": 0,
+  "TotalKills": 0,
+  "TotalSkills": 0,
+  "MemoryTrack": 0,
+  "MemoryPlaying": true,
+  "SeenEnemies": [],
+  "Stages": {}
+}

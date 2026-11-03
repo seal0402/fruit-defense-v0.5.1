@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../game/src/progression/UpgradeState.cs" Link="UpgradeState.cs" />
+    <Compile Include="../../game/src/progression/PlayerProfile.cs" Link="PlayerProfile.cs" />
+    <Compile Include="../../game/src/core/GameRules.cs" Link="GameRules.cs" />
+    <Compile Include="../../game/src/core/BattleWorld.cs" Link="BattleWorld.cs" />
+    <Compile Include="../../game/src/entities/CombatUnits.cs" Link="CombatUnits.cs" />
+    <Compile Include="../../game/src/defense/DefenseState.cs" Link="DefenseState.cs" />
+    <Compile Include="../../game/src/combat/AttackBehaviors.cs" Link="AttackBehaviors.cs" />
+    <Compile Include="../../game/src/input/AimController.cs" Link="AimController.cs" />
+  </ItemGroup>
+</Project>

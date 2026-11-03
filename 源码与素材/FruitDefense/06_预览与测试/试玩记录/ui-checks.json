@@ -1,0 +1,125 @@
+{
+  "total": 27,
+  "passed": 27,
+  "failed": 0,
+  "results": [
+    {
+      "name": "\u4E3B\u9875\u53EF\u9009\u4E09\u6863\u96BE\u5EA6\u5E76\u5F00\u59CB\u6E38\u620F",
+      "passed": true
+    },
+    {
+      "name": "720\u4E581280\u7AD6\u5C4F\u4E14\u6218\u6597\u4E2D\u53EA\u4FDD\u7559\u7CBE\u7B80\u4FE1\u606F\u548C\u56FE\u6807",
+      "passed": true
+    },
+    {
+      "name": "\u82F1\u96C4\u5934\u50CF\u548C\u5FEB\u6377\u952E\u5747\u53EF\u5207\u6362",
+      "passed": true
+    },
+    {
+      "name": "\u9F20\u6807\u62C9\u5F13\u548C\u72EC\u7ACB\u51B7\u5374\u63A5\u7EED\u53D1\u5C04",
+      "passed": true
+    },
+    {
+      "name": "\u89E6\u5C4F\u62C9\u5F13\u3001\u7B2C\u4E8C\u6307\u9694\u79BB\u548C\u6A21\u62DF\u9F20\u6807\u4E0D\u91CD\u590D\u53D1\u5C04",
+      "passed": true
+    },
+    {
+      "name": "\u89E6\u5C4F\u53D6\u6D88\u4E0D\u53D1\u5C04",
+      "passed": true
+    },
+    {
+      "name": "\u6682\u505C\u5C0F\u83DC\u5355\u4EC5\u6709\u4E09\u4E2A\u6309\u94AE\u4E14\u51BB\u7ED3\u6218\u6597\u548C\u5012\u8BA1\u65F6",
+      "passed": true
+    },
+    {
+      "name": "\u6682\u505C\u4E2D\u8BBE\u7F6E\u58F0\u97F3\u5E76\u8FD4\u56DE\uFF0C\u4ECD\u4FDD\u6301\u6682\u505C",
+      "passed": true
+    },
+    {
+      "name": "\u9000\u51FA\u5F53\u5C40\u8FD4\u56DE\u4E3B\u9875\u5E76\u80FD\u91CD\u65B0\u5F00\u59CB",
+      "passed": true
+    },
+    {
+      "name": "\u624B\u673A\u8FD4\u56DE\u901A\u77E5\u4F18\u5148\u53D6\u6D88\u7784\u51C6\uFF0C\u518D\u63A7\u5236\u6682\u505C\u548C\u8BBE\u7F6E\u8FD4\u56DE",
+      "passed": true
+    },
+    {
+      "name": "\u654C\u4EBA\u548C\u6C34\u6676\u4FDD\u7559\u751F\u547D\uFF0C\u9876\u90E8\u6B21\u6570\u4ECD\u6307\u5165\u4FB5\u6CE2\u6B21",
+      "passed": true
+    },
+    {
+      "name": "\u7834\u95E8\u540E\u53CD\u5411\u62C9\u5F13\u62E6\u622A\u6C34\u6676\u524D\u7684\u654C\u4EBA",
+      "passed": true
+    },
+    {
+      "name": "\u62C9\u5F13\u677E\u624B\u7ECF\u8FC7\u82F1\u96C4\u6309\u94AE\u4E5F\u4E0D\u4F1A\u5361\u4F4F",
+      "passed": true
+    },
+    {
+      "name": "\u7AD6\u5C4F\u8F7B\u677E\u6863\u6162\u8282\u594F\u666E\u901A\u5C04\u624B\u4ECD\u53EF\u901A\u5173",
+      "passed": true
+    },
+    {
+      "name": "\u5931\u8D25\u7ED3\u7B97\u4E0E\u8FD4\u56DE\u4E3B\u9875",
+      "passed": true
+    },
+    {
+      "name": "\u80DC\u5229\u7ED3\u7B97\u4E0E\u518D\u6B21\u5F00\u59CB",
+      "passed": true
+    },
+    {
+      "name": "360\u4E58640\u548C540\u4E58960\u7AD6\u5C4F\u9884\u89C8\u4E0B\u89E6\u5C4F\u8F93\u5165\u4ECD\u6709\u6548",
+      "passed": true
+    },
+    {
+      "name": "\u73A9\u5BB6\u8D44\u6599\u4FDD\u5B58\u5E76\u53EF\u91CD\u65B0\u8BFB\u53D6\uFF0C\u7A7A\u540D\u5B57\u88AB\u62D2\u7EDD",
+      "passed": true
+    },
+    {
+      "name": "\u82F1\u96C4\u56FE\u9274\u5207\u6362\u3001\u8BBE\u4E3A\u4E3B\u9875\u4E0E\u6280\u80FD\u8BD5\u7528\u4E0D\u5199\u6218\u7EE9",
+      "passed": true
+    },
+    {
+      "name": "\u771F\u5B9E\u957F\u62C9\u91CA\u653E\u6280\u80FD\u3001\u51B7\u5374\u56DE\u9000\u666E\u653B\u548C\u53D6\u6D88\u4E0D\u8017\u6280\u80FD",
+      "passed": true
+    },
+    {
+      "name": "\u654C\u4EBA\u56FE\u9274\u4E0EBOSS\u8BD5\u7528\u3001\u9884\u8B66\u548C\u771F\u5B9E\u5F39\u836F\u6253\u65AD",
+      "passed": true
+    },
+    {
+      "name": "\u8BB0\u5FC6\u5927\u5385\u6A21\u62DF\u64AD\u653E\u6682\u505C\u5207\u6362\u5FAA\u73AF\u5E76\u5728\u6218\u6597\u4E2D\u505C\u64AD",
+      "passed": true
+    },
+    {
+      "name": "\u9009\u7B2C\u4E09\u5173\u771F\u5B9E\u6218\u6597\u540E\u4FDD\u5B58\u6210\u7EE9\u4E00\u6B21\uFF0C\u8FD4\u56DE\u4E0D\u91CD\u590D\u7D2F\u8BA1",
+      "passed": true
+    },
+    {
+      "name": "\u4E09\u7AE0\u4E5D\u5173\u53EF\u9009\u4E14\u9996\u9886\u6CE2\u6B21\u968F\u5173\u5361\u53D8\u5316",
+      "passed": true
+    },
+    {
+      "name": "\u6E05\u6CE2\u6389\u843D\u4E09\u5F20\u5361\u4E14\u8BA1\u65F6\u51BB\u7ED3\uFF0C\u70B9\u51FB\u53EA\u83B7\u5F97\u4E00\u5F20",
+      "passed": true
+    },
+    {
+      "name": "\u4E0B\u4E00\u5173\u4FDD\u7559\u672C\u7AE0\u589E\u76CA\uFF0C\u91CD\u8BD5\u548C\u6062\u590D\u68C0\u67E5\u70B9\u4E0D\u5237\u5361",
+      "passed": true
+    },
+    {
+      "name": "\u7ED3\u7B97\u6309\u9632\u7EBF\u663E\u793A\u4E09\u4E8C\u4E00\u661F\uFF0C\u6C34\u6676\u5F52\u96F6\u5931\u8D25\u96F6\u661F",
+      "passed": true
+    }
+  ],
+  "pacedRun": {
+    "attempts": 41,
+    "plannedMisses": 10,
+    "maxEnemies": 5,
+    "kills": 12,
+    "core": 8,
+    "seconds": 79.72759
+  },
+  "renderDriver": "opengl3",
+  "viewport": "(720, 1280)"
+}

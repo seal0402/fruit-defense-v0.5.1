@@ -1,0 +1,5 @@
+{
+  "FRUITDEFENSE_DOTNET": "/absolute/path/to/dotnet",
+  "FRUITDEFENSE_GODOT": "/absolute/path/to/Godot.NET.executable",
+  "note": "Reference only. Set these as environment variables; this file is not loaded automatically."
+}

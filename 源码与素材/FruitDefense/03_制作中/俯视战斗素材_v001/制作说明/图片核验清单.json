@@ -1,0 +1,183 @@
+[
+  {
+    "path": "白子状态图\\shiroko_active_idle_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 731314,
+    "sha256": "c10debebd6c838f2be608773fe7e5bcf49e3e42ba683e76151d8bbebb2860b04",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1267122,
+    "alpha_bbox": [
+      0,
+      12,
+      1240,
+      1254
+    ]
+  },
+  {
+    "path": "白子状态图\\shiroko_charge_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 693397,
+    "sha256": "3803c3cb1e6cf963635221f5c2bd15314aeae7e7c6e19a87c0fe888b971d1821",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1279131,
+    "alpha_bbox": [
+      73,
+      152,
+      1220,
+      1254
+    ]
+  },
+  {
+    "path": "白子状态图\\shiroko_fire_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 771382,
+    "sha256": "68401d2b2553a7b488c73ba73ee3d80209c1913dcbf5bd7acc53568fb1f0db61",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1251929,
+    "alpha_bbox": [
+      71,
+      23,
+      1242,
+      1254
+    ]
+  },
+  {
+    "path": "白子状态图\\shiroko_reserve_idle_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 936636,
+    "sha256": "e2a531e23ec3b022c10c9df4b27765328d4b5c59fc76c5520ba5ce53886d021e",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1163328,
+    "alpha_bbox": [
+      53,
+      19,
+      1232,
+      1254
+    ]
+  },
+  {
+    "path": "背景\\bg_academy_street_birdseye_v001.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "bytes": 2527393,
+    "sha256": "2fd5990125110b42bf89c8b3ede99d112f0384bf123f867ffb72724e478b6c1e",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "alpha_bbox": null
+  },
+  {
+    "path": "阿露状态图\\aru_active_idle_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 958420,
+    "sha256": "a0cb78026de499429c3206da164e19f2a2aa1fa25440471123cb4b57dc1dacd4",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1122073,
+    "alpha_bbox": [
+      0,
+      20,
+      1224,
+      1238
+    ]
+  },
+  {
+    "path": "阿露状态图\\aru_charge_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 1038289,
+    "sha256": "46d944b3ee570752b22649856209e6eff7e0508d52e8825b6256a3e7b36578ef",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1091092,
+    "alpha_bbox": [
+      103,
+      21,
+      1224,
+      1230
+    ]
+  },
+  {
+    "path": "阿露状态图\\aru_fire_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 1098682,
+    "sha256": "51f31b7c1058ddfd8754254acdb96d0b40775473c6574199114043a863b39185",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1070560,
+    "alpha_bbox": [
+      33,
+      13,
+      1231,
+      1214
+    ]
+  },
+  {
+    "path": "阿露状态图\\aru_reserve_idle_v001.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 985991,
+    "sha256": "cf1e9cfd7ce7a1d5c926dd53ed5f1a26e02858b79d822f38e8ab6c13608cd893",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 1107013,
+    "alpha_bbox": [
+      0,
+      19,
+      1240,
+      1254
+    ]
+  }
+]

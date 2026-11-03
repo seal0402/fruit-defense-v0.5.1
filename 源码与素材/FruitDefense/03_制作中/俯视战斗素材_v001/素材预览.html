@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>白子 · 俯视战斗素材 v001</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#eef3f5;color:#163344;font:15px/1.6 "Microsoft YaHei",sans-serif}main{max-width:1320px;margin:auto;padding:26px}h1{font-size:25px;margin:0}p{margin:7px 0 16px;color:#506976}.toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:18px 0}button{border:1px solid #b6cad4;border-radius:7px;background:white;color:#244859;padding:9px 16px;font:inherit;cursor:pointer}button[aria-pressed=true]{background:#146c8c;border-color:#146c8c;color:white}label{display:flex;align-items:center;gap:8px;margin-left:12px}.stage{position:relative;aspect-ratio:1672/941;overflow:hidden;border-radius:12px;background:#c4d1d7;box-shadow:0 8px 24px #22445518}.ground{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.sprite{position:absolute;width:23%;height:auto;left:50%;top:84%;transform:translate(-58%,-84%);filter:none}.marker{display:none;position:absolute;left:50%;top:84%;width:18px;height:18px;border:2px solid #e93f59;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none}.guide{display:none;position:absolute;left:13%;right:13%;top:69%;border-top:2px dashed #e93f59;pointer-events:none}.stage.guides .marker,.stage.guides .guide{display:block}.caption{background:#fff;border:1px solid #d7e3e8;border-radius:8px;padding:12px 16px;margin:14px 0}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}.card{background:white;border:1px solid #d4e0e6;border-radius:9px;overflow:hidden}.card strong{display:block;padding:12px}.checker{aspect-ratio:1;background:repeating-conic-gradient(#e7edf0 0 25%,#fff 0 50%) 0/20px 20px}.checker img{width:100%;height:100%;object-fit:contain}.note{font-size:13px;color:#667e8b;margin-top:18px}a{color:#126c8c}@media(max-width:700px){main{padding:14px}.cards{grid-template-columns:repeat(2,1fr)}label{margin-left:0}}
+</style>
+<main>
+<h1>白子 · 俯视战斗素材 v001</h1>
+<p>在同一张街道底图上比较四种静态关键姿势。候场图显示在侧边，上场图显示在中央发射区域。</p>
+<div class="toolbar" role="group" aria-label="角色状态">
+<button data-state="reserve" aria-pressed="false">候场待机</button>
+<button data-state="active" aria-pressed="true">上场待机</button>
+<button data-state="charge" aria-pressed="false">蓄力</button>
+<button data-state="fire" aria-pressed="false">发射</button>
+<label>显示大小 <input id="size" aria-label="人物显示大小" type="range" min="12" max="34" value="23"></label>
+<label><input id="guideToggle" type="checkbox">显示位置参考线</label>
+</div>
+<div class="stage" id="stage">
+<img class="ground" src="背景/bg_academy_street_birdseye_v001.png" alt="俯视学院街道底图">
+<div class="guide"></div>
+<img id="sprite" class="sprite" src="白子状态图/shiroko_active_idle_v001.png" alt="白子上场待机">
+<div class="marker" id="marker"></div>
+</div>
+<div class="caption" id="caption">上场待机：背侧朝向敌人，保持持枪准备姿态。</div>
+<div class="cards">
+<article class="card"><strong>01 · 候场待机</strong><div class="checker"><img src="白子状态图/shiroko_reserve_idle_v001.png" alt="候场待机透明图"></div></article>
+<article class="card"><strong>02 · 上场待机</strong><div class="checker"><img src="白子状态图/shiroko_active_idle_v001.png" alt="上场待机透明图"></div></article>
+<article class="card"><strong>03 · 蓄力</strong><div class="checker"><img src="白子状态图/shiroko_charge_v001.png" alt="蓄力透明图"></div></article>
+<article class="card"><strong>04 · 发射</strong><div class="checker"><img src="白子状态图/shiroko_fire_v001.png" alt="发射透明图"></div></article>
+</div>
+<p class="note">此页用于图片视角和状态对比；角色位置为展示布局。四张图是静态关键姿势，不构成连续动画，也不覆盖全部瞄准方向。脚底参考点为人工估计，最终切帧对齐需进一步校准。阴影、枪口火花、蓄力光效将作为独立图层制作。</p>
+<a href="制作说明/素材制作说明.md">素材制作说明</a> · <a href="制作说明/生成提示词.md">完整生成提示词</a>
+</main>
+<script>
+const states={
+reserve:{file:'shiroko_reserve_idle_v001.png',x:25,y:84,px:55.7,py:87.9,text:'候场待机：在发射位侧边等待，武器放低，能看见正脸。'},
+active:{file:'shiroko_active_idle_v001.png',x:50,y:84,px:57.7,py:84.3,text:'上场待机：背侧朝向敌人，保持持枪准备姿态。'},
+charge:{file:'shiroko_charge_v001.png',x:50,y:84,px:58.5,py:84.5,text:'蓄力：压低重心、收紧持枪姿势。光效后续单独叠加。'},
+fire:{file:'shiroko_fire_v001.png',x:50,y:84,px:60.5,py:85.1,text:'发射：上半身后坐，围巾和头发响应动作。枪口火花后续单独叠加。'}
+};
+const sprite=document.getElementById('sprite'),marker=document.getElementById('marker');
+function selectState(key){const s=states[key];sprite.src='白子状态图/'+s.file;sprite.alt='白子'+key;sprite.style.left=s.x+'%';sprite.style.top=s.y+'%';sprite.style.transform=`translate(-${s.px}%,-${s.py}%)`;marker.style.left=s.x+'%';marker.style.top=s.y+'%';document.getElementById('caption').textContent=s.text;document.querySelectorAll('[data-state]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.state===key)));}
+document.querySelectorAll('[data-state]').forEach(b=>b.addEventListener('click',()=>selectState(b.dataset.state)));
+document.getElementById('size').addEventListener('input',e=>sprite.style.width=e.target.value+'%');
+document.getElementById('guideToggle').addEventListener('change',e=>document.getElementById('stage').classList.toggle('guides',e.target.checked));
+selectState('active');
+</script>
+</html>

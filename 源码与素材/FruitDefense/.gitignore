@@ -1,0 +1,10 @@
+**/.godot/
+**/bin/
+**/obj/
+**/.vs/
+*.user
+.local/
+tools/dotnet/
+tools/godot/
+tools/downloads/
+**/__pycache__/

@@ -1,0 +1,50 @@
+{
+  "gameVersion": "0.5.1",
+  "handoffVersion": 2,
+  "createdAt": "2026-10-14T21:22:30.510771+08:00",
+  "sourceFiles": 324,
+  "sourceBytes": 83880756,
+  "omitted": [
+    ".godot",
+    "bin",
+    "obj",
+    ".local",
+    ".git",
+    ".vs",
+    "__pycache__",
+    "历史版本",
+    "tools/dotnet",
+    "tools/godot",
+    "tools/downloads"
+  ],
+  "includes": [
+    "complete C# sources",
+    "existing assets and source references",
+    "prompts and requirements",
+    "tests and records",
+    "handoff documents",
+    "portable scripts",
+    "Godot NuGet packages"
+  ],
+  "implemented": [
+    "3 chapters and 9 stages",
+    "3 difficulties with relaxed balance",
+    "3 hero charge skills",
+    "stackable upgrade cards",
+    "boss mechanics",
+    "local saves and chapter checkpoints",
+    "portrait mouse/touch controls",
+    "barrier-based star rating"
+  ],
+  "verifiedChecks": {
+    "domain": 45,
+    "godotInput": 27
+  },
+  "notIncludedAsCompleted": [
+    "mobile installer",
+    "formal integrated artwork",
+    "production home page artwork",
+    "real lobby video and background music integration"
+  ],
+  "assetNote": "Assets under production are captured as found; this snapshot does not claim all character states are complete. External sibling download libraries are not project runtime dependencies."
+}

@@ -1,0 +1,72 @@
+{
+  "godotVersion": "4.7.2",
+  "dotnetVersion": "10.0.402",
+  "metadataDate": "2026-10-14",
+  "platforms": {
+    "linux-arm64": {
+      "godot": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_arm64.zip",
+        "sha512": "4b8b700ea21bea16b1a2ed8bc3a266431604f0d6452c819e022bfadea33eb431269bd680b11cd9dab93fc1f487ae4a60d15ee511e5691a82c22a2753b428d263",
+        "name": "Godot_v4.7.2-stable_mono_linux_arm64.zip"
+      },
+      "dotnet": {
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-linux-arm64.tar.gz",
+        "sha512": "db85ae85527251fbb1290720ac3bf324bb1d9eea74516ef291ed4bb1f8ff6ec63a17593367f49b456115e8b24ead6d0c2ece2801e501f36a6cd4444ed01a498f",
+        "name": "dotnet-sdk-10.0.402-linux-arm64.tar.gz"
+      }
+    },
+    "osx-x64": {
+      "godot": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip",
+        "sha512": "0862c53d7158c7a67f745e2e46f90b68cf5343cbe8b95d6d4333c469e42ca104af9c121d1746a50e5d221a99d09d82ef7016495f8e0d09255842884ed0502795",
+        "name": "Godot_v4.7.2-stable_mono_macos.universal.zip"
+      },
+      "dotnet": {
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-x64.tar.gz",
+        "sha512": "1628e0a07261f5bd54dde370c53b90cb72f0c88667d7cde34bd62997a29ff8f32310f81e08c85962a2b0221c05368df37fb04909b6f1431b293f445ecf895292",
+        "name": "dotnet-sdk-10.0.402-osx-x64.tar.gz"
+      }
+    },
+    "win-x64": {
+      "godot": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_win64.zip",
+        "sha512": "79229fd112b0c9cbeab82363a4ef7be18ea70f1caf86bf912789335b136fbe7e01db0053a33461438c5da1c680c17bbb10040bd09bedc51221cd4423d0367757",
+        "name": "Godot_v4.7.2-stable_mono_win64.zip"
+      },
+      "dotnet": {
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-win-x64.zip",
+        "sha512": "ae4fd528cb7e9f6af6aaf7de36715a69f761f183744f1bb3025d19f5a92447090ec561410e46266c1d10a63781ed6f3de771760bc76c876d87daabc367b898cd",
+        "name": "dotnet-sdk-10.0.402-win-x64.zip"
+      }
+    },
+    "linux-x64": {
+      "godot": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_x86_64.zip",
+        "sha512": "1855960b27ee3ef5e66e5e228cced69d55637b24334a7411162687dcd077d8f9f645348cdb8eae984bec8135d49ed855a1e3a16476786b8bce60774fd8402d13",
+        "name": "Godot_v4.7.2-stable_mono_linux_x86_64.zip"
+      },
+      "dotnet": {
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-linux-x64.tar.gz",
+        "sha512": "1904a98dda2db34ba78ba3c4fb1b224455329af91c341d83547843c1839e112b04ae699ee92fa2449a8f62249196a938723078c0c60b9f65c88539d5687729c2",
+        "name": "dotnet-sdk-10.0.402-linux-x64.tar.gz"
+      }
+    },
+    "osx-arm64": {
+      "godot": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip",
+        "sha512": "0862c53d7158c7a67f745e2e46f90b68cf5343cbe8b95d6d4333c469e42ca104af9c121d1746a50e5d221a99d09d82ef7016495f8e0d09255842884ed0502795",
+        "name": "Godot_v4.7.2-stable_mono_macos.universal.zip"
+      },
+      "dotnet": {
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.402/dotnet-sdk-10.0.402-osx-arm64.tar.gz",
+        "sha512": "ee0d379c144ebddef6efe851e1514883d1b695430d13b3fb13e8153f8476e1e5ac7abc42c08668471aaf4d738ff367cf53009845f94d224ba126febe74d00b75",
+        "name": "dotnet-sdk-10.0.402-osx-arm64.tar.gz"
+      }
+    }
+  },
+  "officialSources": [
+    "https://api.github.com/repos/godotengine/godot-builds/releases/tags/4.7.2-stable",
+    "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/SHA512-SUMS.txt",
+    "https://builds.dotnet.microsoft.com/dotnet/release-metadata/10.0/releases.json"
+  ]
+}

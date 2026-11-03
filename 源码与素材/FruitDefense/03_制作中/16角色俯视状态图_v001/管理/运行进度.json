@@ -1,0 +1,394 @@
+[
+  {
+    "id": "10019",
+    "state": "active",
+    "filename": "10019_active_idle_NW_v001.png",
+    "status": "generated",
+    "source": "C:\\Users\\wang2\\.codex\\generated_images\\01a13894-b685-75a0-ade1-93adaf0c5bd1\\exec-e09b957f-2709-4f01-a0c0-eaf5cacc6277.png"
+  },
+  {
+    "id": "10019",
+    "state": "charge",
+    "filename": "10019_charge_NW_v001.png",
+    "status": "failed",
+    "error": "HTTP 429 Too Many Requests"
+  },
+  {
+    "id": "10019",
+    "state": "fire",
+    "filename": "10019_fire_NW_v001.png",
+    "status": "failed",
+    "error": "HTTP 429 Too Many Requests"
+  },
+  {
+    "id": "10019",
+    "state": "reserve",
+    "filename": "10019_reserve_idle_SE_v001.png",
+    "status": "saved",
+    "source": "C:\\Users\\wang2\\.codex\\generated_images\\01a13894-b685-75a0-ade1-93adaf0c5bd1\\exec-c17aa3cf-1ae0-4caf-9efc-653bc0357a11.png"
+  },
+  {
+    "id": "10020",
+    "state": "active",
+    "filename": "10020_active_idle_NW_v001.png",
+    "status": "generated",
+    "source": "C:\\Users\\wang2\\.codex\\generated_images\\01a13894-b685-75a0-ade1-93adaf0c5bd1\\exec-27b9454a-cfd3-4b11-97d3-e9dc349036e4.png"
+  },
+  {
+    "id": "10020",
+    "state": "charge",
+    "filename": "10020_charge_NW_v001.png",
+    "status": "failed",
+    "error": "HTTP 429 Too Many Requests"
+  },
+  {
+    "id": "10020",
+    "state": "fire",
+    "filename": "10020_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10020",
+    "state": "reserve",
+    "filename": "10020_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10038",
+    "state": "active",
+    "filename": "10038_active_idle_NW_v001.png",
+    "status": "generated",
+    "source": "C:\\Users\\wang2\\.codex\\generated_images\\01a13894-b685-75a0-ade1-93adaf0c5bd1\\exec-435bbd2d-aa9e-4e0a-b8d8-d0b2d14e621f.png"
+  },
+  {
+    "id": "10038",
+    "state": "charge",
+    "filename": "10038_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10038",
+    "state": "fire",
+    "filename": "10038_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10038",
+    "state": "reserve",
+    "filename": "10038_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10050",
+    "state": "active",
+    "filename": "10050_active_idle_NW_v001.png",
+    "status": "generated",
+    "source": "C:\\Users\\wang2\\.codex\\generated_images\\01a13894-b685-75a0-ade1-93adaf0c5bd1\\exec-7b6e835e-790e-4829-865d-974a949c6a7b.png"
+  },
+  {
+    "id": "10050",
+    "state": "charge",
+    "filename": "10050_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10050",
+    "state": "fire",
+    "filename": "10050_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10050",
+    "state": "reserve",
+    "filename": "10050_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10099",
+    "state": "active",
+    "filename": "10099_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10099",
+    "state": "charge",
+    "filename": "10099_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10099",
+    "state": "fire",
+    "filename": "10099_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10099",
+    "state": "reserve",
+    "filename": "10099_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10029",
+    "state": "active",
+    "filename": "10029_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10029",
+    "state": "charge",
+    "filename": "10029_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10029",
+    "state": "fire",
+    "filename": "10029_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10029",
+    "state": "reserve",
+    "filename": "10029_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10035",
+    "state": "active",
+    "filename": "10035_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10035",
+    "state": "charge",
+    "filename": "10035_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10035",
+    "state": "fire",
+    "filename": "10035_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10035",
+    "state": "reserve",
+    "filename": "10035_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "13010",
+    "state": "active",
+    "filename": "13010_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "13010",
+    "state": "charge",
+    "filename": "13010_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "13010",
+    "state": "fire",
+    "filename": "13010_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "13010",
+    "state": "reserve",
+    "filename": "13010_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "26013",
+    "state": "active",
+    "filename": "26013_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "26013",
+    "state": "charge",
+    "filename": "26013_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "26013",
+    "state": "fire",
+    "filename": "26013_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "26013",
+    "state": "reserve",
+    "filename": "26013_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20017",
+    "state": "active",
+    "filename": "20017_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20017",
+    "state": "charge",
+    "filename": "20017_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20017",
+    "state": "fire",
+    "filename": "20017_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20017",
+    "state": "reserve",
+    "filename": "20017_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20007",
+    "state": "active",
+    "filename": "20007_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20007",
+    "state": "charge",
+    "filename": "20007_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20007",
+    "state": "fire",
+    "filename": "20007_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "20007",
+    "state": "reserve",
+    "filename": "20007_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10100",
+    "state": "active",
+    "filename": "10100_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10100",
+    "state": "charge",
+    "filename": "10100_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10100",
+    "state": "fire",
+    "filename": "10100_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10100",
+    "state": "reserve",
+    "filename": "10100_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10073",
+    "state": "active",
+    "filename": "10073_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10073",
+    "state": "charge",
+    "filename": "10073_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10073",
+    "state": "fire",
+    "filename": "10073_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10073",
+    "state": "reserve",
+    "filename": "10073_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10071_2",
+    "state": "active",
+    "filename": "10071_2_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10071_2",
+    "state": "charge",
+    "filename": "10071_2_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10071_2",
+    "state": "fire",
+    "filename": "10071_2_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10071_2",
+    "state": "reserve",
+    "filename": "10071_2_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10066",
+    "state": "active",
+    "filename": "10066_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10066",
+    "state": "charge",
+    "filename": "10066_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10066",
+    "state": "fire",
+    "filename": "10066_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10066",
+    "state": "reserve",
+    "filename": "10066_reserve_idle_SE_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10054",
+    "state": "active",
+    "filename": "10054_active_idle_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10054",
+    "state": "charge",
+    "filename": "10054_charge_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10054",
+    "state": "fire",
+    "filename": "10054_fire_NW_v001.png",
+    "status": "pending"
+  },
+  {
+    "id": "10054",
+    "state": "reserve",
+    "filename": "10054_reserve_idle_SE_v001.png",
+    "status": "pending"
+  }
+]

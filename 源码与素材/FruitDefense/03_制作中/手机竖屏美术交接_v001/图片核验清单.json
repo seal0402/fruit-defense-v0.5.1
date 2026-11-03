@@ -1,0 +1,83 @@
+{
+  "images": [
+    {
+      "file": "参考图片/01_shiroko_original.webp",
+      "size": [
+        540,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "b783577291e014e366e2b9545c4fc6afe3822402df53f7a726007ade385b3e73"
+    },
+    {
+      "file": "参考图片/02_shiroko_reserve_sample.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "e2a531e23ec3b022c10c9df4b27765328d4b5c59fc76c5520ba5ce53886d021e"
+    },
+    {
+      "file": "参考图片/03_shiroko_active_sample.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "c10debebd6c838f2be608773fe7e5bcf49e3e42ba683e76151d8bbebb2860b04"
+    },
+    {
+      "file": "参考图片/04_shiroko_charge_sample.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "3803c3cb1e6cf963635221f5c2bd15314aeae7e7c6e19a87c0fe888b971d1821"
+    },
+    {
+      "file": "参考图片/05_shiroko_fire_sample.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "sha256": "68401d2b2553a7b488c73ba73ee3d80209c1913dcbf5bd7acc53568fb1f0db61"
+    },
+    {
+      "file": "竖屏背景/bg_academy_street_portrait_v002.png",
+      "size": [
+        941,
+        1672
+      ],
+      "mode": "RGB",
+      "alpha_range": null,
+      "sha256": "d362e592376ba057929ba56c14af03404060915996493b7f344cc45d51f5aead"
+    }
+  ],
+  "mobile_background_target": "1080x1920",
+  "actual_mobile_background": "941x1672",
+  "generation_tool": "built-in image_gen",
+  "date": "2026-10-14"
+}
