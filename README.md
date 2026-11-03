@@ -29,4 +29,9 @@
 
 ## 原始压缩包下载
 
-两个原始封存 ZIP（源码与素材.zip、Windows完整离线开发.zip）体积较大，放在本仓库的 [Releases](https://github.com/seal0402/fruit-defense-v0.5.1/releases/tag/v0.5.1) 中。仓库正文只保留展开后的源码与素材，以及校验清单等说明文件；ZIP 的 SHA-256 仍见 原始封存包/SHA256SUMS.txt。
+两个原始封存 ZIP 体积较大，放在本仓库的 [Releases](https://github.com/seal0402/fruit-defense-v0.5.1/releases/tag/v0.5.1) 中：
+
+- 保卫水果_初代版本_v0.5.1_20261014_212230_源码与素材.zip
+- 保卫水果_初代版本_v0.5.1_20261014_212230_Windows完整离线开发.zip
+
+仓库正文只保留展开后的源码与素材，以及校验清单等说明文件；ZIP 的 SHA-256 见 原始封存包/SHA256SUMS.txt。
